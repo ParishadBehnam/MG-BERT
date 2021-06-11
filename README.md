@@ -1,6 +1,6 @@
 # MG-BERT
 
-This is the source code of our paper, *Parishad BehnamGhader, Hossein Zakerinia, Mahdieh Soleymani Baghshah. (2021). "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling." In Proceedings of the Fifteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-15), pp. 125-131. 2021.*
+This is the source code of our paper, *Parishad BehnamGhader, Hossein Zakerinia, Mahdieh Soleymani Baghshah. "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling." In Proceedings of the Fifteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-15), pp. 125-131. 2021.*
 
 ---
 
